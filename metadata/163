@@ -1,0 +1,11 @@
+{
+  "name": "SpartanBlock #163",
+  "description": "Un blocco stilizzato unico, parte della collezione SpartanBlock.",
+  "image": "https://crypky00.github.io/spartanblock-nft/nft_images/spartanblock_163.png",
+  "attributes": [
+    {
+      "trait_type": "Block ID",
+      "value": 163
+    }
+  ]
+}
